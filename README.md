@@ -14,14 +14,6 @@ The primary objective is to build a robust regression model to predict **credit 
 ## 📁 Repository Contents
 
 ```
-regression-workflow/
-├── Predictive_Modeling.ipynb         # Jupyter Notebook covering the entire pipeline
-├── train.xlsx                        # Labeled training dataset
-├── test.xlsx                         # Unlabeled test dataset for prediction
-├── sample_submission.xlsx           # Submission template file
-├── submission.xlsx                  # Final prediction output file
-```
-
 ---
 
 ## 🛠️ End-to-End Workflow
@@ -119,7 +111,7 @@ library(purrr)      # Functional programming
 
 **Salamot Fakoya**
 Data Science (3rd Year | UTDallas)
-[LinkedIn](https://www.linkedin.com/in/tanveer-singh-bedi-a8b811177/) • [GitHub](https://github.com/tanveerbedi)
+[LinkedIn](https://www.linkedin.com/in/salamot-fakoya-650325224/) • [GitHub](https://github.com/Sal-Fakoya)
 
 ---
 
@@ -128,3 +120,4 @@ Data Science (3rd Year | UTDallas)
 This project is licensed for academic and non-commercial educational use only.
 
 ---
+
