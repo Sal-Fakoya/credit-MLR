@@ -1,5 +1,5 @@
 
-# 📊 Credit Balance Prediction Project: Advanced Regression Workflow
+# 📊 Credit Balance Prediction Project: Regression Workflow
 
 This repository presents a regression modeling workflow implemented in **R**. It covers the full process from data ingestion and preprocessing to exploratory analysis, feature engineering, model selection, diagnostics, and final prediction generation. 
 
@@ -107,5 +107,6 @@ Data Science (3rd Year | UTDallas)
 This project is licensed for academic and non-commercial educational use only.
 
 ---
+
 
 
