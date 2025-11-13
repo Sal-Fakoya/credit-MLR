@@ -11,10 +11,6 @@ The primary objective is to build a robust regression model to predict **credit 
 
 ---
 
-## 📁 Repository Contents
-
-```
----
 
 ## 🛠️ End-to-End Workflow
 
@@ -78,17 +74,8 @@ The primary objective is to build a robust regression model to predict **credit 
 * Cook’s distance and leverage plots for outlier detection
 * Stepwise model comparison tables (AIC, BIC, R²)
 
----
-
-## 🚀 Getting Started
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/credit-balance-regression.git
-cd credit-balance-regression
-```
-
+## Data Source: 
+[Kaggle] (https://www.kaggle.com/code/avikpaul4u/credit-card-balance/input?select=Credit.csv)
 
 ## 📦 Dependencies
 
@@ -120,4 +107,5 @@ Data Science (3rd Year | UTDallas)
 This project is licensed for academic and non-commercial educational use only.
 
 ---
+
 
